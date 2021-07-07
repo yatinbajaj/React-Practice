@@ -1,0 +1,19 @@
+{
+  "name": "redux-demo",
+  "version": "1.0.0",
+  "description": "React practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon asynAction.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yatin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nodemon": "^2.0.9",
+    "redux": "^4.1.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  }
+}
